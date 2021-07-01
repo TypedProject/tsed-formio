@@ -18,7 +18,7 @@
     "@storybook/addon-essentials": "6.1.11",
     "@storybook/addon-links": "6.2.9",
     "@storybook/addons": "6.1.11",
-    "@storybook/react": "6.1.11",
+    "@storybook/react": "6.3.2",
     "@svgr/webpack": "5.5.0",
     "@tsed/config": "1.9.2",
     "@tsed/tailwind": "1.9.2",
